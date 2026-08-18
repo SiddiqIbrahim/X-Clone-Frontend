@@ -1,2 +1,2 @@
-// export const baseUrl = "http://localhost:5000"
-export const baseUrl = "x-clone-backend-sable.vercel.app"
+export const baseUrl = "http://localhost:5000"
+// export const baseUrl = "x-clone-backend-sable.vercel.app"
